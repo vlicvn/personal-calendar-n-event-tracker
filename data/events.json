@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "id": "ee6df410-9fba-4439-8e61-16ae192a9d46",
+      "title": "shopping",
+      "date": "2026-02-02",
+      "time": "16:00",
+      "description": "u should go to market"
+    },
+    {
+      "id": "869e3a4d-f6f3-4257-b6fe-7f7bd4d4837c",
+      "title": "school",
+      "date": "2026-02-01",
+      "time": "12:00",
+      "description": "math lesson"
+    },
+    {
+      "id": "7c722378-f3c3-4ef1-b6c2-4ac807ad8fe4",
+      "title": "test",
+      "date": "2026-01-01",
+      "time": "15:00",
+      "description": "ABCDE"
+    }
+  ]
+}
